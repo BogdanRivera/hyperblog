@@ -2,6 +2,10 @@ Las calificaciones son:
 9.8 nuevamente se quedó la misma calificacion
 8.5
 9.2
+<<<<<<< HEAD
 7.8 
+=======
+7.8 la misma calificacion
+>>>>>>> cabecera
 6.5
 9.5
