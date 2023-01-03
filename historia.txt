@@ -1,7 +1,13 @@
 Esta es la historia de Freddy Vega
 
+<<<<<<< HEAD
 Freddy Vega tiene 32 años y nació en Colombia
 
 Anita Platzi tiene 41 años y nació en Internet
+=======
+Bogdan Rivera tiene 24 años y nació en México
+Anita tiene 32 años y está muy feliz de trabajar en platzi
+
+>>>>>>> ebed45cf7ac4e83f44919560574baa55f160b438
 
 Mañana nos enfocaremos en su vida laboral
